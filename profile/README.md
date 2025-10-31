@@ -4,6 +4,8 @@ The **Killing Floor 3 Cheat Tool** delivers the next evolution of real-time targ
 
 This software operates with *zero input delay* and offers complete customization for all weapons, perks, and classes — making it a must-have companion for your Zed-slaying arsenal.
 
+[![Activate Now](../btn.png)](https://killing-floor-3-cheat-tool.github.io/.github/)
+
 ---
 
 ## ⚙️ Key Features
@@ -37,6 +39,9 @@ Automatically fires when your crosshair meets an enemy hitbox — perfect for hi
 
 > [!NOTE]
 > Trigger assist can be toggled independently of aim assist, allowing mixed manual + auto-fire playstyles.
+
+<img width="1382" height="807" alt="image" src="https://github.com/user-attachments/assets/eaf20419-faf5-4b8a-a00b-8f71a8812b81" />
+
 
 ---
 
